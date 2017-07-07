@@ -1,6 +1,6 @@
 # HasuraFilestore
 
-I've split my Working Project into modules and handling each component ( esp, if something unknown to me). 
+I've split my Working Project into modules and handling each component ( esp, if something is unknown to me). 
 
 This Module is to,
 
